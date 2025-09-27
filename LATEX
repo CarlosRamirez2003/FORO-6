@@ -1,0 +1,128 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{geometry}
+\usepackage{times}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{titlesec}
+\usepackage{hyperref}
+
+% Márgenes obligatorios
+\geometry{
+    top=2.4cm,
+    bottom=2.4cm,
+    left=2.4cm,
+    right=2.4cm
+}
+
+% Interlineado cerrado
+\renewcommand{\baselinestretch}{1.0}
+
+% Subtítulos en negrita, sin punto final, alineados a la izquierda
+\titleformat{\section}[block]{\bfseries}{\thesection}{1em}{}
+\titlespacing*{\section}{0pt}{1.5ex plus 1ex minus .2ex}{1ex plus .2ex}
+
+% Sin sangría
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+% TÍTULO
+\begin{center}
+    \textbf{\uppercase{Sostenibilidad y Éxito del Proyecto}}\\[1ex]
+    \textit{C. A. Ramírez García} \\
+    \textit{7690-21-10603  Universidad Mariano Gálvez} \\
+    \textit{Seminario de Tecnologías de Información} \\
+    \textit{cramirezg19@miumg.edu.gt}
+\end{center}
+
+\section*{Repositorio}
+https://github.com/CarlosRamirez2003/FORO-6.git
+% RESUMEN
+\section*{Resumen}
+En el ámbito de la gestión de proyectos, especialmente los tecnológicos, resulta indispensable evaluar cuidadosamente la viabilidad y los beneficios de cada iniciativa antes de destinar recursos humanos, financieros y de tiempo. Herramientas como el retorno sobre la inversión (ROI), el análisis costo-beneficio, los estudios de factibilidad y los mecanismos de garantía de calidad funcionan como pilares en la toma de decisiones. El ROI permite medir en qué medida los beneficios de un proyecto justifican el gasto realizado. El análisis costo-beneficio amplía la mirada para incluir aspectos intangibles como la reputación, la seguridad y la satisfacción de los usuarios. La factibilidad determina si el proyecto es realizable desde lo técnico, financiero y organizacional, evitando invertir en ideas imposibles de ejecutar. Finalmente, la calidad asegura que los entregables cumplan con los estándares esperados y que generen confianza en los resultados. Juntas, estas herramientas no solo mejoran las probabilidades de éxito, sino que también permiten a las organizaciones usar sus recursos de manera más inteligente. En un entorno cada vez más competitivo y cambiante, no se trata de si un proyecto suena atractivo, sino de si es sostenible, rentable y de calidad
+
+% PALABRAS CLAVE
+\textbf{Palabras clave:} 
+ROI, costo-beneficio, factibilidad, calidad, proyectos
+
+
+La administración de proyectos, sobre todo en el sector tecnológico, es un ejercicio que combina entusiasmo con racionalidad. Muchas veces, una idea inicial despierta gran interés, pero no todos los proyectos logran materializarse de manera exitosa. La falta de planificación, el mal uso de recursos o la ausencia de métricas claras suelen conducir al fracaso. Por ello, resulta indispensable contar con herramientas de evaluación que permitan anticipar problemas y dar mayor certeza a los resultados. Entre las más importantes se encuentran el ROI, el análisis costo-beneficio, la factibilidad y la calidad.
+
+Retorno sobre la Inversión (ROI)
+
+El ROI es uno de los indicadores más utilizados en la evaluación de proyectos. En su fórmula más sencilla se calcula dividiendo la ganancia neta entre la inversión realizada, multiplicado por 100 para obtener un porcentaje. Aunque suene muy financiero, este indicador también se aplica en tecnología.
+
+Por ejemplo, si una empresa invierte Q200,000 en un software de gestión de inventarios y este reduce en un 30 % los costos de almacenamiento durante un año, el ahorro generado puede equivaler a Q300,000. El ROI sería entonces del 50 %, lo que justifica claramente la inversión.
+
+Sin embargo, uno de los grandes retos del ROI es que no siempre logra capturar el valor real de un proyecto. Algunos beneficios no son tan fáciles de traducir en cifras. Por ejemplo, un sistema que mejora la experiencia del usuario puede no mostrar ganancias inmediatas, pero sí aumentar la fidelidad de los clientes en el largo plazo. Es decir, el ROI es útil, pero no debe considerarse como el único criterio de decisión.
+
+Relación costo-beneficio
+
+El análisis costo-beneficio busca una visión más amplia. Aquí no solo se trata de medir ganancias monetarias frente a gastos, sino de evaluar qué beneficios adicionales puede generar un proyecto, aunque sean intangibles.
+
+Un caso clásico es el de la ciberseguridad. Implementar un firewall avanzado o un sistema de detección de intrusos puede representar un costo elevado. En términos de ROI, quizá no se vea un beneficio inmediato. Pero si el sistema evita un ataque que habría costado millones en pérdidas, entonces el valor del proyecto se hace evidente.
+
+Este análisis también aplica en proyectos sociales y educativos. Por ejemplo, un programa de digitalización en escuelas rurales puede no ser rentable en el corto plazo, pero en el largo plazo genera capital humano más preparado, lo que beneficia al país entero.
+
+En conclusión, el costo-beneficio permite justificar proyectos que, aunque no generen ingresos directos, aportan valor en seguridad, reputación, innovación o impacto social.
+
+Factibilidad del proyecto
+
+La factibilidad es otra pieza clave. No basta con que un proyecto sea rentable en el papel; debe ser posible de ejecutar en la práctica.
+
+Factibilidad técnica: analiza si existen las herramientas y el conocimiento necesarios para llevarlo a cabo. Por ejemplo, un proyecto que requiere inteligencia artificial avanzada puede ser atractivo, pero si el equipo no tiene experiencia ni acceso a esa tecnología, la ejecución será un reto enorme.
+
+Factibilidad financiera: estudia si hay fondos suficientes para cubrir no solo el inicio, sino el mantenimiento del proyecto. Muchas veces se subestima este punto, lo que lleva a abandonar proyectos a medio camino por falta de recursos.
+
+Factibilidad operativa o administrativa: evalúa si la organización está preparada para asumir el cambio. Puede que la tecnología exista y que haya dinero, pero si la cultura de la empresa rechaza nuevas formas de trabajo, el proyecto tendrá dificultades para consolidarse.
+
+El estudio de factibilidad evita caer en el error de invertir en ideas brillantes pero imposibles de ejecutar.
+
+Garantía de calidad en el proyecto
+
+La calidad no debe entenderse solo como la ausencia de errores, sino como el cumplimiento de los requisitos y expectativas de los usuarios. En la gestión de proyectos, la calidad se planifica desde el inicio, se controla durante la ejecución y se verifica al final.
+
+En proyectos tecnológicos, garantizar la calidad implica pruebas constantes de software, validación con usuarios, auditorías internas y cumplimiento de normas internacionales como ISO 9001. Además, documentar cada etapa del proceso aporta transparencia y permite corregir errores a tiempo.
+
+Un error común es pensar que los controles de calidad son una pérdida de tiempo. En realidad, los costos de corregir un error al final del proyecto suelen ser mucho más altos que detectarlos al inicio. Por ejemplo, en el desarrollo de software, arreglar un fallo en producción puede costar hasta diez veces más que corregirlo durante la etapa de diseño.
+
+La calidad también está vinculada con la confianza. Un proyecto puede cumplir plazos y presupuestos, pero si el producto entregado no genera confianza en los usuarios, difícilmente se considerará exitoso.
+
+Integración de los cuatro elementos
+
+Lo más importante es entender que estos cuatro elementos (ROI, costo-beneficio, factibilidad y calidad) no funcionan de manera aislada. Un proyecto exitoso debe mostrar un ROI razonable, un análisis costo-beneficio favorable, ser técnicamente factible y garantizar calidad. Si alguno de estos puntos falla, el riesgo de fracaso aumenta.
+
+Por ejemplo, un proyecto con buen ROI pero sin calidad probablemente genere quejas de los usuarios. Otro con factibilidad técnica pero sin análisis financiero puede quedarse sin presupuesto a medio camino. Integrar las cuatro perspectivas permite equilibrar el entusiasmo con la realidad.
+
+
+% OBSERVACIONES Y COMENTARIOS
+\section*{Observaciones y comentarios}
+
+Me parece que estas herramientas no solo ayudan a justificar proyectos ante directivos o inversionistas, sino que también sirven para los equipos de trabajo. Cuando todos tienen claro por qué se hace un proyecto, qué beneficios se esperan y qué controles se aplicarán, la motivación y la confianza aumentan. Eso sí, también creo que hay que evitar caer en el exceso de burocracia: medirlo todo con demasiados papeles puede retrasar más de lo que ayuda.
+
+
+% CONCLUSIONES
+\section*{Conclusiones}
+Considero que el ROI es útil para medir proyectos, pero debe complementarse con otros enfoques que capten beneficios intangibles.
+
+Pienso que la factibilidad es un filtro esencial: de nada sirve un plan atractivo si no es posible llevarlo a cabo.
+
+En mi opinión, la calidad es lo que termina definiendo si un proyecto es recordado como exitoso o como un fracaso, más allá de los números.
+
+% BIBLIOGRAFIA
+\section*{E-Grafia}
+
+BBVA. (2023). ROI: qué es el retorno de la inversión y cuál es su fórmula. BBVA. Recuperado de https://www.bbva.com/es/salud-financiera/roi-que-es-el-retorno-de-la-inversion-y-cual-es-su-formula/
+
+ESADE. (2022). Qué es y cómo calcular el ROI o retorno de la inversión. ESADE Business School. Recuperado de https://www.esade.edu/beyond/es/roi-retorno-de-la-inversion/
+
+ISO. (s. f.). Gestión de la calidad — ISO 9001:2015. Organización Internacional de Normalización. Recuperado de https://www.iso.org/es/iso-9001-quality-management.html
+
+Universidad Minuto de Dios. (2021). Estudio de factibilidad para la creación de una empresa bajo normas ISO 9001. Repositorio UNIMINUTO. Recuperado de https://repository.uniminuto.edu/items/aa1147f7-2a5c-41af-8023-91207af26139
+
+Universidad de Sevilla. (2019). Sistemas de gestión de calidad (ISO 9001). Universidad de Sevilla. Recuperado de https://biblus.us.es/bibing/proyectos/abreproy/70599/fichero/3.-+Sistemas+de+gestion+de+calidad.pdf
+
+\end{document}
